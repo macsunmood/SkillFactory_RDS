@@ -1,2 +1,5 @@
-# Skill-Factory
-Skill Factory Data Science Course
+## **Skill Factory Data Science Course**
+
+**_macsunmood repo_**
+
+![DS](https://raw.githubusercontent.com/macsunmood/Skill-Factory/master/ds.jpg)
