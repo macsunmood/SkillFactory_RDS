@@ -1,4 +1,4 @@
-## **Skill Factory Data Science Course**
+## **SkillFactory Data Science Course**
 
 **_macsunmood repo_**
 
