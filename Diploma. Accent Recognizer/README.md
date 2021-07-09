@@ -26,6 +26,7 @@ _Дипломный проект курса SkillFactory Data Science_
   - `English Accent Detector [EDA].ipynb` - Exploratory Data Analysis
   - `English Accent Detector [data preprocessing].ipynb` - предобработка данных
   - `English Accent_Detector [models].ipynb` - моделирование и эксперименты
+  - `English Accent_Detector [models - Table].ipynb` - моделирование и эксперименты (для табличных данных)
 
 - **`Proto`** — прототип на Streamlit:
   - **`models`** - папка-контейнер для предобученных моделей
