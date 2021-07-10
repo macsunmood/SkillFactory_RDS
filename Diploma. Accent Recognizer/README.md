@@ -43,5 +43,3 @@ _Дипломный проект курса SkillFactory Data Science_
 3. `streamlit run app.py`
 
 Подробное описание датасета представлено в исследовательском ноутбуке [`English Accent Detector [EDA].ipynb`](https://github.com/macsunmood/SkillFactory_RDS/blob/master/Diploma.%20Accent%20Recognizer/Notebooks/English%20Accent%20Detector%20%5BEDA%5D.ipynb)
-
-<..in progress..> будут добавлены источники и дополнительные материалы
