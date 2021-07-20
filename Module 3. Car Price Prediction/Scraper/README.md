@@ -1,5 +1,5 @@
 ## auto.ru Web Scraper
-_for Module 3. Car Price Prediction of the SkillFactory Data Science Course_
+_Module 3. Car Price Prediction of the SkillFactory Data Science Course_
 
 ### Use Instructions
 ---
