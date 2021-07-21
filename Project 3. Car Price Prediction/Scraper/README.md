@@ -1,7 +1,8 @@
+# [SkillFactory] Data Science Course
 ## auto.ru Web Scraper
-_Module 3. Car Price Prediction of the SkillFactory Data Science Course_
+_for **Module 3. Car Price Prediction of the**_
 
-### Use Instructions
+### USE INSTRUCTIONS
 ---
 **`PerformScraping()`** function implements the entire web scraping\
 process filling the `results` dictionary with collected data.\
