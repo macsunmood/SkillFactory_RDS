@@ -28,6 +28,6 @@
 
 
 ### [+]
+- Соревнование на Kaggle: **[`[>]`](https://www.kaggle.com/c/kaggle-sf-dst-through-1)**
 - Ноутбук с исследованиями и моделированием: [`Tripadvisor Case.ipynb`](https://github.com/macsunmood/SkillFactory_RDS/blob/master/Project%201.%20TripAdvisor%20Case/TripAdvisor%20Case.ipynb)
 - Ноутбук с парсером для сайта Tripadvisor: [`Tripadvisor Scraper.ipynb`](https://github.com/macsunmood/SkillFactory_RDS/blob/master/Project%201.%20TripAdvisor%20Case/TripAdvisor%20Scraper.ipynb)
-- Соревнование на Kaggle: **[`[>]`](https://www.kaggle.com/c/kaggle-sf-dst-through-1)**
