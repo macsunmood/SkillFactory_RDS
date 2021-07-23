@@ -31,9 +31,16 @@ def classify_text():
         # Convert all the received parameters to a string
         return f'Parameter "{params}" is invalid', 400
     else:
-        return '<center>' + homepage() + \
-        '<h2><span style="background-color: #880002; color: #ffffff; padding: 0 5px;">' + \
-        model.classify(text) + '</span></h2></center>'
+        result = model.classify(text)
+        clr = "#880002" if result == "SPAM" else "#008800"
+        return f'''
+        <center>
+            {homepage()}
+            <h2>
+                <span style="background-color: {clr}; color: #ffffff; padding: 0 5px;">{result}</span>
+            </h2>
+        </center>
+        '''
 
 @app.route('/classify_text_api', methods=['POST'])
 def classify_text_api():
