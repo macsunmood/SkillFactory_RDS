@@ -1,6 +1,5 @@
-# [SkillFactory] Data Science Course
 ## auto.ru Web Scraper
-_for **Module 3. Car Price Prediction of the**_
+_for **Project 3. Car Price Prediction** of the [SkillFactory] Data Science Course_
 
 ### USE INSTRUCTIONS
 ---
@@ -18,5 +17,5 @@ The available param arguments are as follows:
           if neither defined, scraper performs a standart one-threaded\
           sequential processing (in case multithreading goes wrong).
 ---
-**The last cell of the Jypiter Notenook provides an option to save the\
+**The last cell of the Jupyter Notebook provides an option to save the\
 obtained data to a file.**
