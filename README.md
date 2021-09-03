@@ -1,5 +1,5 @@
 ## **SkillFactory Data Science Course**
-
+[![SkillFactory DataScience](https://img.shields.io/badge/SF-Data%20Science-brightgreen)](https://skillfactory.ru/data-science)\
 **_macsunmood repo_**
 
 Репозиторий содержит практические решения курса **SkillFactory Real Data Science** 2019-2021 гг.
@@ -13,4 +13,5 @@
 - 💻 [**Project 6. Batmobile**](https://github.com/macsunmood/SkillFactory_RDS/tree/master/Project%206.%20Batmobile) - предсказание стоимости авто с использованием _multi-input_ нейросетей, комбинация изображений и табличных данных;
 - 🧧 [**Diploma. Accent Recognizer**](https://github.com/macsunmood/SkillFactory_RDS/tree/master/Diploma.%20Accent%20Recognizer) - финальный проект: распознаватель акцента английской речи. Включает все этапы реализации и работающий прототип на _Streamlit_.
 
-![DS](https://raw.githubusercontent.com/macsunmood/Skill-Factory/master/ds.jpg)
+![SkillFactory Data Science](https://telegra.ph/file/db0665de16c088eb41d8e.png)
+
