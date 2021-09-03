@@ -1,4 +1,6 @@
 ## Car Price Prediction
+[![SkillFactory DataScience](https://img.shields.io/badge/SF-Data%20Science-brightgreen)](https://skillfactory.ru/data-science)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-%2334b6ef)](https://www.kaggle.com/c/sf-dst-car-price)
 
 В рамках [проекта](https://www.kaggle.com/c/sf-dst-car-price) была поставлена задача создать ML-модель, предсказывающую стоимость автомобиля по его характеристикам.
 
