@@ -1,4 +1,4 @@
-## Ford vs Ferrari: Car Classifier
+# Ford vs Ferrari: Car Classifier
 [![SkillFactory Data Science](https://img.shields.io/badge/SF-Data%20Science-brightgreen)](https://skillfactory.ru/data-science)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-34b6ef?logo=Kaggle&logoColor=white)](https://www.kaggle.com/c/sf-dl-car-classification)\
 ![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
@@ -30,6 +30,7 @@
 6. На последнем шаге модель дообучена с увеличенным размером изображения (**512x512**) и уменьшенным **BATCH_SIZE**;
 7. Добавлена **Test Time Augmentation (TTA)**, что еще улучшило результат;
 
+---
 
 ## Результаты
 
