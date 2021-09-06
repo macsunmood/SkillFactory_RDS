@@ -1,4 +1,6 @@
 ## Spam Classifier
+[![SkillFactory Data Science](https://img.shields.io/badge/SF-Data%20Science-brightgreen)](https://skillfactory.ru/data-science)
+
 
 Задача этого проекта — написать классификатор спама.  
 Необходимо было создать и обучить модель, предсказывающую, является ли текст спамом.  
