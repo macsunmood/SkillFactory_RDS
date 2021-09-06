@@ -1,8 +1,10 @@
 ## Car Price Prediction
+[![SkillFactory DataScience](https://img.shields.io/badge/SF-Data%20Science-brightgreen)](https://skillfactory.ru/data-science)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-%2334b6ef)](https://www.kaggle.com/c/sf-dst-car-price)
 
 В рамках [проекта](https://www.kaggle.com/c/sf-dst-car-price) была поставлена задача создать ML-модель, предсказывающую стоимость автомобиля по его характеристикам.
 
-Если такая модель будет работать хорошо, то для компании, занимающейся продажей подержанных автомобилей, это **значительно ускорит выявление выгодных предложений и повысит её прибыль** (Пример: [сервис](https://auto.ru/cars/evaluation/) на *auto.ru* и [статья](https://vc.ru/transport/29899-avto-ru-zapustil-besplatnyy-servis-dlya-ocenki-stoimosti-avtomobilya) про него).
+Если такая модель будет работать хорошо, то, например, для компании, занимающейся продажей подержанных автомобилей, это **значительно ускорит выявление выгодных предложений и повысит её прибыль** (пример: [сервис](https://auto.ru/cars/evaluation/) на *auto.ru* и [статья](https://vc.ru/transport/29899-avto-ru-zapustil-besplatnyy-servis-dlya-ocenki-stoimosti-avtomobilya) про него).
 
 ## Описание и ход работы
 
