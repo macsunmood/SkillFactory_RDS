@@ -1,6 +1,8 @@
 ## Ford vs Ferrari: Car Classifier
-[![SkillFactory DataScience](https://img.shields.io/badge/SF-Data%20Science-brightgreen)](https://skillfactory.ru/data-science)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-%2334b6ef)](https://www.kaggle.com/c/sf-dl-car-classification)
+[![SkillFactory Data Science](https://img.shields.io/badge/SF-Data%20Science-brightgreen)](https://skillfactory.ru/data-science)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-34b6ef?logo=Kaggle&logoColor=white)](https://www.kaggle.com/c/sf-dl-car-classification)\
+![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
+
 
 В этом [соревновательном проекте](https://www.kaggle.com/c/sf-dl-car-classification) стояла задача построения модели классификации автомобилей по фотографиям.
 
