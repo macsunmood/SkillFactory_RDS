@@ -1,10 +1,11 @@
-## **SkillFactory Data Science Course**
+# **SkillFactory Data Science Course**
 [![SkillFactory Data Science](https://img.shields.io/badge/SF-Data%20Science-brightgreen)](https://skillfactory.ru/data-science)\
 **_macsunmood repo_**
 
 Репозиторий содержит практические решения курса **SkillFactory Real Data Science** 2019-2021 гг.
 
 ---
+
 Представленные проекты:
 - 💻 [**Project 1. TripAdvisor Case**](https://github.com/macsunmood/SkillFactory_RDS/tree/master/Project%201.%20TripAdvisor%20Case) - предсказание рейтинга ресторанов на сайте Tripadvisor (включает веб-скрэппинг); первый серьезный проект курса, применен _Feature Engineering_;
 - 💻 [**Project 2. Spam Classifier**](https://github.com/macsunmood/SkillFactory_RDS/tree/master/Project%202.%20Spam%20Classifier) - классификатор спама методом Байесовской фильтрации, включает рабочий прототип на _Flask_;
@@ -14,4 +15,3 @@
 - 🧧 [**Diploma. Accent Recognizer**](https://github.com/macsunmood/SkillFactory_RDS/tree/master/Diploma.%20Accent%20Recognizer) - финальный проект: распознаватель акцента английской речи. Включает все этапы реализации и работающий прототип на _Streamlit_.
 
 ![SkillFactory Data Science](https://telegra.ph/file/db0665de16c088eb41d8e.png)
-
