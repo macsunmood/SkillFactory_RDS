@@ -1,5 +1,5 @@
 ## **SkillFactory Data Science Course**
-[![SkillFactory DataScience](https://img.shields.io/badge/SF-Data%20Science-brightgreen)](https://skillfactory.ru/data-science)\
+[![SkillFactory Data Science](https://img.shields.io/badge/SF-Data%20Science-brightgreen)](https://skillfactory.ru/data-science)\
 **_macsunmood repo_**
 
 Репозиторий содержит практические решения курса **SkillFactory Real Data Science** 2019-2021 гг.
