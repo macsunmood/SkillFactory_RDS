@@ -1,4 +1,4 @@
-## Car Price Prediction
+# Car Price Prediction
 [![SkillFactory Data Science](https://img.shields.io/badge/SF-Data%20Science-brightgreen)](https://skillfactory.ru/data-science)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-34b6ef?logo=Kaggle&logoColor=white)](https://www.kaggle.com/c/sf-dl-car-classification)
 
