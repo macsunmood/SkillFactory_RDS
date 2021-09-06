@@ -1,4 +1,6 @@
 ## Tripadvisor Restaurant Rating Prediction
+[![SkillFactory Data Science](https://img.shields.io/badge/SF-Data%20Science-brightgreen)](https://skillfactory.ru/data-science)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-34b6ef?logo=Kaggle&logoColor=white)](https://www.kaggle.com/c/sf-dl-car-classification)
 
 Задачей этого [соревновательного проекта](https://www.kaggle.com/c/kaggle-sf-dst-through-1/leaderboard) было введение в работу с данными и их подготовку для обучения модели.  
 Основным фокусом была предварительная обработка (Data Preprocessing) и разработка вспомогательных функций,  
