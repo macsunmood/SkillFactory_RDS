@@ -35,8 +35,8 @@
 ## Результаты
 
 Занято **3-е место** ([macsunmood](https://www.kaggle.com/c/sf-dl-car-classification/leaderboard)) на момент проведения соревнования.\
-Достигнутая **_accuracy_** на kaggle: **`0.97827`**
-
+Достигнутая **_accuracy_** на kaggle: **`0.97827`**  (**`+4.7%`** к baseline: `0.93408`)
+ 
 **Итоги и особенности решения:**
 - Применена **аугментация** данных;
 - Написан новый callback: `TimingCallback`;
