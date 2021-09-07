@@ -18,4 +18,4 @@ The available param arguments are as follows:
           sequential processing (in case multithreading goes wrong).
 ---
 **The last cell of the Jupyter Notebook provides an option to save the\
-obtained data to a file.**
+obtained data to file.**
