@@ -1,5 +1,5 @@
-## auto.ru Web Scraper
-_for **Project 3. Car Price Prediction** of the [SkillFactory] Data Science Course_
+## 🕷️ auto.ru Web Scraper
+_for **[Project 3. Car Price Prediction](https://github.com/macsunmood/SkillFactory_RDS/tree/master/Project%203.%20Car%20Price%20Prediction)** of the [SkillFactory] Data Science Course_
 
 ### USE INSTRUCTIONS
 ---
