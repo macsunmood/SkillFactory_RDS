@@ -1,4 +1,4 @@
-## **English Accent Recognizer ( EAR )**
+## 💬 **English Accent Recognizer ( EAR )**
 ![project type](https://img.shields.io/badge/%F0%9F%A6%9C-pet%20project-green)
 
 _Дипломный проект курса SkillFactory Data Science_
