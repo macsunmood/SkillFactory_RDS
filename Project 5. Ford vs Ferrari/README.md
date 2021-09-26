@@ -42,7 +42,7 @@
 - Написан новый callback: `TimingCallback`;
 - Использован **LearningRateScheduler** со **scheduler** `lr * tf.math.exp(decay_rate)` для плавного уменьшения Learning rate;
 - Заметный прирост точности показало добавление в архитектуру "головы" **BatchNormalization**;
-- Из протестированных оптимизаторов (Adam, Nadam, Adamax..) лучший результат показал **Adam** с параметром **amsgrad=True**;
+- Из протестированных оптимизаторов (Adam, Nadam, Adamax..) лучший результат показал **Adam** с параметром `amsgrad=True`;
 - Добавлена **l2-регуляризация**;
 - Для улучшения предсказаний на kaggle submit использована техника **Test Time Augmentations**;
 
