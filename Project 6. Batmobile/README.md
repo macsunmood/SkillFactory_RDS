@@ -70,7 +70,7 @@ n — количество периодов.
 
 ## Результаты
 
-Занято **2-е место** (**[macsunmood](https://www.kaggle.com/c/sf-dst-car-price-prediction-part2/leaderboard)**) на момент проведения соревнования.\
+Занято **2-е место** ([macsunmood](https://www.kaggle.com/c/sf-dst-car-price-prediction-part2/leaderboard)) на момент проведения соревнования.\
 Достигнутый показатель **MAPE** на kaggle: **`10.81432%`**  (улучшение на **`1.89297%`** к baseline: `12.70729%`)
 
 ---
